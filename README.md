@@ -11,6 +11,9 @@ This repository contains Jupyter Notebooks demonstrating a customer segmentation
 3. Open the Jupyter Notebook:
    jupyter notebook customer-segmentation-analysis.ipynb
 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marytheresa/customer-segmentation-analysis/main)
+
 Description of the Notebook
 This Jupyter Notebook performs an extensive analysis of an online retail dataset to understand sales patterns and customer behavior. The analysis includes data cleaning, exploratory data analysis, visualization, and customer segmentation using clustering techniques.
 
@@ -36,3 +39,6 @@ Below is a detailed description of the notebook's content and structure:
 
 Contact
 For any questions or suggestions, feel free to open an issue or contact me.
+
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marytheresa/customer-segmentation-analysis/main)
