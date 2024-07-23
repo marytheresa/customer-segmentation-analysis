@@ -12,6 +12,8 @@ This repository contains Jupyter Notebooks demonstrating a customer segmentation
    jupyter notebook customer-segmentation-analysis.ipynb
 
 
+##To run the notebook directly in your browser without needing to install anything, please click the link below:
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/marytheresa/customer-segmentation-analysis/main)
 
 Description of the Notebook
